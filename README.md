@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Analytics (Auto-updates)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrahmantop&layout=compact&theme=tokyonight&locale=en" alt="Top Languages" width="48%" />
+<img src="https://github.com/abdalrahmantop" alt="Top Languages" width="48%" />
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" width="97%" />
