@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Abdalrahman Hussein
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Profile Views" />
-</p>
+
 
 <p align="center">
-  <strong>🚀 Computer Science @ Birzeit University (</strong><br>
+  <strong>🚀 Computer Science @ Birzeit University </strong><br>
   Passionate about building scalable web applications, solving complex problems, and crafting clean code.
 </p>
 
@@ -34,17 +32,9 @@
   
   <!-- Databases & DevOps -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  
 </p>
 
 ---
 
-### 📊 GitHub Analytics (Auto-updates)
 
-<img src="https://github.com/abdalrahmantop" alt="Top Languages" width="48%" />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" width="97%" />
-</p>
